@@ -4,6 +4,5 @@ function updateMap() {
     .then(data => {
         console.log(data);
     })
-
-
 }
+updateMap();
