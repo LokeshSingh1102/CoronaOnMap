@@ -1,1 +1,1 @@
-plotting corona virus cases on map, interactive dashboard using javascript and mapbox
+# plotting corona virus cases on map, interactive dashboard using javascript and mapbox
